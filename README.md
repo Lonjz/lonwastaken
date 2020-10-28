@@ -1,4 +1,4 @@
-# Lon - Node.js and a lotta uncreativity 
+# Lon - node.js and a lotta uncreativity 
 > What was I doing when I made this lol
 
 ***

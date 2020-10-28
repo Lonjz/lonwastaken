@@ -12,9 +12,14 @@
 ***
 
 ## Languages 
-![JS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png = 40x40) 
-![Node.js](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png = 40x40)
+![JS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png) 
+![Node.js](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png)
 
 >I'm fluent in these, not a professional not a pro 
 
 ***
+
+## Would like to
+* ✅ - Learn c# 
+* 📢 - Make a game
+

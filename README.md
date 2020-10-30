@@ -8,6 +8,7 @@
 * 🎮 - I play video games 
 * 💫 - Anime is best
 * 🚀 - Discord: Lon#0001
+* 😂 - Learning basic Java in school 
 
 ***
 

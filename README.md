@@ -7,7 +7,7 @@
 * 🌙 - I don't 24/7 grind 
 * 🎮 - I play video games 
 * 💫 - Anime is best
-* 🚀 - Discord: Lon#0001
+* 🚀 - Discord: lon#1337
 * 😂 - Learning basic Java in school 
 
 ***

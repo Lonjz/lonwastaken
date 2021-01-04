@@ -5,10 +5,17 @@
 
 ## About me
 * 🌙 - I don't 24/7 grind 
-* 🎮 - I play video games 
-* 💫 - Anime is best
-* 🚀 - Discord: lon#1337
-* 😂 - Learning basic Java in school 
+* 🎮 - Plays lotta video games
+* 💫 - Known as the anime binger
+* 🚀 - Discord: Lon#0666
+* 😂 - Doin cs for the next 3-4 years 
+
+***
+
+## Links
+* 👹 - [Discord Server](https://discord.gg/Y2QjDhB)
+* 🥰 - [Steam profile](https://steamcommunity.com/id/lontm/)
+* 🤖 - [Discord Bot](http://whick.ml)
 
 ***
 

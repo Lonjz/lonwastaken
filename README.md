@@ -1,4 +1,4 @@
-# Lon - node.js and a lotta uncreativity 
+# Lon - C++ kekman
 > What was I doing when I made this lol
 
 ***
@@ -8,7 +8,7 @@
 * 🎮 - Plays lotta video games
 * 💫 - Known as the anime binger
 * 🚀 - Discord: Lon#0666
-* 😂 - Doin cs for the next 3-4 years 
+* 💀 - Am do cs cuz its pog
 
 ***
 
@@ -20,18 +20,16 @@
 ***
 
 ## Stuff I use
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-/>  
-
->Js, Node.js (way too pog)
+* C++
+* Java
+* JavaScript
 
 >I'm fluent in these
 
 ***
 
 ## Would like to
-* ✅ - Learn c# 
+* ✅ - Do a lot of projects???
 * 📢 - Make a game
 
 ***

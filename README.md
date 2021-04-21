@@ -7,7 +7,7 @@
 * 🌙 - I don't 24/7 grind 
 * 🎮 - Plays lotta video games
 * 💫 - Known as the anime binger
-* 🚀 - Discord: Lon#0666
+* 🚀 - Discord: Lon#5295
 * 💀 - Am do cs cuz its pog
 
 ***
